@@ -199,9 +199,9 @@ Chocolate_Shop_Analysis.xlsx
 
 **Sai Sandeep Mathuraju**
 
-- 📧 Email: *your-email@example.com*
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 💻 GitHub: https://github.com/your-username
+- 📧 Email: *saisandeepmathuraju.com*
+- 💼 LinkedIn: https://www.linkedin.com/in/saisandeepmathuraju/
+- 💻 GitHub: https://github.com/ms-sandeep
 
 ---
 
